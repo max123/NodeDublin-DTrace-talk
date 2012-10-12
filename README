@@ -1,0 +1,12 @@
+This contains the slides for my talk at NodeDublin, October 18 and 19 2012.
+The directory also contains some D scripts and some node.js clients and servers
+that I use during the talk.  The echofile-server1.js script is used most
+frequently, and is the most complete of the scripts.
+
+To run this, you'll need a system with DTrace.  Instructions for everything else
+are in the pdf slides.
+
+The usual disclaimers... I have no idea of robustness of this code.  Nor do I claim to
+be a node.js expert.  Any improvements/comments/suggestions are appreciated.
+
+max
